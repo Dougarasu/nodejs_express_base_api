@@ -1,2 +1,5 @@
-# nodejs_express_base_api
-This is a base project for API using the technologies NodeJS + Express + ES6.
+# Base project for API in NodeJS + Express + MongoDB + ES6
+
+This is a base project for API.
+
+The architecture is based on components.
